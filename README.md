@@ -7,7 +7,7 @@
 | Mark Ramy Fathy   | 2000923     |
 | Heba Maher Abdelrahman       | 2001400     |
 
-**Paper**: [Attention Augmented Convolutional Networks](https://arxiv.org/abs/1904.09925)  
+**Paper**: [Attention Augmented Convolutional Networks]([https://arxiv.org/abs/1904.09925](https://arxiv.org/pdf/1904.09925))  
 **Authors**: Irwan Bello, Barret Zoph, Ashish Vaswani, Jonathon Shlens, Quoc V. Le (Google Research)
 
 ## 📌 Overview
